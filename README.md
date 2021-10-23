@@ -7,4 +7,4 @@
 `git submodule update --remote`
 
 3. Run training
-`python ppo_example.py`
+`python ppo_train.py`
