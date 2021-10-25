@@ -1,0 +1,5 @@
+name: HW4
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
