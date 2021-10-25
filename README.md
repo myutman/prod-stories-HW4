@@ -10,3 +10,5 @@
 <pre>$ pip3 install -r requirements.txt</pre>
 3. Запустите обучение
 <pre>$ python3 ppo_train.py</pre>
+## Исследование
+https://docs.google.com/document/d/1G0e7-Li09LOi7LaNBixFInS1tuE-gSPLgyiKmR2VaYg/edit?usp=sharing
